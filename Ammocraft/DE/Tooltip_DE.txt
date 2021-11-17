@@ -1,0 +1,30 @@
+Tooltip_DE = {
+  /*Tools*/
+  Tooltip_Reloader = "Ladepresse zum pressen von Munition."
+  Tooltip_Pliers = "Kann zum delaborieren von Patronen verwendet werden."
+  /*Boxes*/
+  Tooltip_BoxCasings = "Enthält 50 Patronenhülsen.",
+  Tooltip_BoxTips = "Enthält 50 Projektile.",
+  Tooltip_BoxShells = "Enthält 50 Schrotflinten-Patronenhülsen.",
+  Tooltip_BuckshotJar = "Genug Gewehrschrot für 50 Schrotflinten-Patronen",
+  Tooltip_BoxSPPrimers = "100 Zündhütchen für 9x19mm Parabellum oder .38 Special Patronen.",
+  Tooltip_BoxLPPrimers = "100 Zündhütchen für .45 ACP oder .44 Magnum Patronen.",
+  Tooltip_BoxRPrimers = "100 Zündhütchen für 5.56x45mm, .223 Remington oder .308 Winchester Patronen.",
+  Tooltip_BuckSGPrimers = "100 Zündhütchen für Schrotpatronen.",
+  Tooltip_GunpowderJar = "Das beste Schwarzpulver der Welt!",
+  /*Casings*/
+  Tooltip_Casing = "Wird verwendet um Munition herzustelen.",
+  Tooltip_CasingSpent = "Braucht ein neues Zündhütchen.",
+  Tooltip_CasingEmpty = "Braucht ein Zündhütchen.",
+  Tooltip_223_556 = "Equivalent mit 5.56x45mm.",
+  Tooltip_556_223 = "Equivalent mit .223 Remington.",
+  /*Primers*/
+  Tooltip_SP_Primer = "Damit kann man 9x19mm Parabellum or .38 Special Patronenhülsen bezündern.",
+  Tooltip_LP_Primer = "Damit kann man .45 ACP or .44 Magnum Patronenhülsen bezündern.",
+  Tooltip_R_Primer = "Damit kann man 5.56x45mm, .223 Remington or .308 Winchester Patronenhülsen bezündern.",
+  Tooltip_SG_Primer = "Damit kann man Schrotflinten-Patronenhülsen bezündern.",
+  Tooltip_PrimerSpent = "Muss aufbereitet werden.",
+  /*Misc*/
+  Tooltip_BulletIngredient = "Damit kann man Projektile herstellen.",
+  Tooltip_GunpowderIngredient = "Damit kann man Schwarzpulver herstellen.",
+}
