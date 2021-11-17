@@ -1,0 +1,62 @@
+Recipe_DE = {
+	Recipe_LabAssembleMicroscope = "Montiere Mikroskop",
+	Recipe_LabAssembleChromatograph = "Montiere Chromatograph",
+	Recipe_LabAssembleChemistrySet = "Montiere Chemiset",
+	Recipe_LabAssembleSpectrometer = "Montiere Spektrometer",
+	Recipe_LabAssembleCentrifuge = "Montiere Zentrifuge",
+	Recipe_LabAssembleMuffleFurnace = "Montiere Brennofen",
+	Recipe_LabAssembleWorkbench = "Montiere Werkbank",
+	Recipe_LabAssembleEasel = "Montiere Staffelei",
+
+	Recipe_DecAssembleSkeleton = "Montiere Skelett",
+	Recipe_DecAssembleVirusModel = "Montiere Virus Model",
+	Recipe_DecAssembleCaduceus = "Montiere Caduceus",
+	Recipe_DecAssembleWhiteboard = "Montiere Whiteboard",
+	Recipe_DecPaintPeriodicTablePoster = "Zeichne Periodensystem-Poster",
+	Recipe_DecPaintSexyNursePoster = "Zeichne Sexy Nurse-Poster",
+	Recipe_DecPaintWashYourHandsPoster = "Zeichne Wasch-deine-Hände-Poster",
+	Recipe_DecPaintBiohazardPoster = "Zeichne Biohazard-Poster",
+	Recipe_DecPaintHumanBrainPoster = "Zeichne Gehirn-Poster",
+	Recipe_DecAssemblePharmacyNeonSign = "Montiere Apotheke-Neonschild",
+	Recipe_DecAssemblePizzaNeonSign = "Montiere Pizza-Neonschild",
+
+	Recipe_FrnMakeTestTube = "Erzeuge Teströhrchen (x3)",
+	Recipe_FrnMakeFlask = "Erzeuge Glaskolben",
+	Recipe_FrnMakeJar = "Erzeuge Einmachglas",
+	Recipe_FrnMakeIngotMold = "Erzeuge Gießform",
+	Recipe_FrnMeltGoldJewelry = "Schmelze Goldschmuck",
+	Recipe_FrnMeltSilverJewelry = "Schmelze Silberschmuck",
+	Recipe_FrnMakeGolgIngot = "Gieße Goldbarren",
+	Recipe_FrnMakeSilverIngot = "Gieße Silberbarren",
+
+	Recipe_ChmTakeBloodForAnalysis = "Entnimm Blutprobe zur Analyse",
+	Recipe_ChmGetBloodTest = "Blut-Test",
+	Recipe_ChmCollectInfectedBlood = "Sammle infiziertes Blut in Teströhrchen",
+	Recipe_ChmDivideBloodIntoComponents = "Spalte Blut in Bestandteile",
+	Recipe_ChmExtractLeukocytesFromBloodCells = "Extrahiere Leukozyten aus Blutzellen",
+	Recipe_ChmExtractAntibodiesFromLeukocytes = "Extrahiere Antikörper aus Leukozyten",
+	Recipe_ChmSynthesizePlainVaccine = "Synthetisiere normalen Impfstoff"
+	Recipe_ChmSynthesizeQualityVaccine = "Synthetisiere guten Impfstoff",
+	Recipe_ChmSynthesizeAdvancedVaccine = "Synthetisiere verbesserten Impfstoff",
+	Recipe_ChmSynthesizeCure = "Synthetisiere Heilmittel"
+	Recipe_ChmGetAnInjection = "Injiziere Mittel"
+	Recipe_ChmMixFlaskOfSodiumHypochlorite = "Mische Glaskolben mit Natriumhypochlorit"
+	Recipe_ChmMixFlaskOfAmmoniumSulfate = "Mische Glaskolben mit Ammoniumsulfat",
+	Recipe_ChmMixFlaskOfHydrogenPeroxide = "Mische Glaskolben mit Wasserstoffperoxid"
+	Recipe_ChmMakeAlbumin = "Fertige Albumintabletten"
+	Recipe_ChmMakeChlorineTablets = "Fertige Chlortabletten"
+	Recipe_ChmMakeBottleOfBleach = "Mische Bleichmittel"
+	Recipe_ChmMakeBottleOfDisinfectant = "Mische Desinfektionsmittel"
+	Recipe_ChmSterilizeTestTube = "Sterilisiere Teströhrchen",
+	Recipe_ChmSterilizeFlask = "Sterilisiere Glaskolben"
+	Recipe_ChmPourTaintedBlood = "Entleere geronnenes Blut",
+
+	Recipe_OthShatterEmptyBottle = "Zerschlage Flasche",
+	Recipe_OthShatterPerfumeVial = "Zerschlage Parfüm",
+	Recipe_OthShatterSmashedBottle = "Zerschlage zerbrochene Flasche",
+	Recipe_OthShatterCarGlass = "Zerschlage Autoscheibe",
+	Recipe_OthUnpackSyringes = "Entpacke Spritzen",
+	Recipe_OthPackSyringes = "Verpacke Spritzen",
+	Recipe_OthTakePills = "Nimm Tabletten",
+	Recipe_OthClearWithChlorineTablets = "Reinige mit Chlortabletten",
+}
