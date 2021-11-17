@@ -1,0 +1,29 @@
+Recipes_DE = {
+    Recipe_Open_7.62x51mm_Casing_Box = "Öffne Schachtel mit 7.62x51mm Patronenhülsen",
+    Recipe_Open_7.62x39mm_Casing_Box = "Öffne Schachtel mit 7.62x39mm Patronenhülsen",
+    Recipe_Open_.22_LR_Casing_Box = "Öffne Schachtel mit .22 LR Patronenhülsen",
+    Recipe_Open_.44-40_Casing_Box = "Öffne Schachtel mit .44-40 Patronenhülsen",
+
+    Recipe_Open_Box_of_7.62mm_Tips = "Öffne Schachtel mit 7.62mm Projektilen",
+    Recipe_Open_Box_of_.22_LR_Casing_Box = "Öffne Schachtel mit .22 LR Projektilen",
+    Recipe_Open_Box_of_.44-40_Casing_Box = "Öffne Schachtel mit .44-40 Projektilen",
+
+    Recipe_Insert_Primer_into_7.62x51mm_Casing = "Presse Zündhütchen in 7.62x51mm Patronenhülse",
+    Recipe_Insert_Primer_into_7.62x39mm_Casing = "Presse Zündhütchen in 7.62x51mm Patronenhülse",
+    Recipe_Insert_Primer_into_.22_LR_Rimfire_Casing = "Presse Zündhütchen in .22 LR Randfeuer-Patronenhülse",
+    Recipe_Insert_Primer_into_.44-40_Casing = "Presse Zündhütchen in .44-40 Patronenhülse",
+
+    Recipe_Make_7.62x51mm_Round = "Presse 7.62x51mm Patrone",
+    Recipe_Make_7.62x39mm_Special_Round = "Presse 7.62x39mm Patrone",
+    Recipe_Make_.22_LR_Round = "Presse .22 LR Patrone",
+    Recipe_Make_.44-40_Round = "Presse .44-40 Patrone
+
+    Recipe_Dismantle_7.62x51mm_Round = "Delaboriere 7.62x51mm Patrone",
+    Recipe_Dismantle_7.62x51mm_Special_Round = "Delaboriere 7.62x39mm Patrone",
+    Recipe_Dismantle_.22_LR_Round = "Delaboriere .22 LR Patrone",
+    Recipe_Dismantle_.44-40_Round = "Delaboriere .44-40 Patrone",
+
+    Recipe_Cast_7.62mm_Bullet_Tip = "Gieße 7.62mm Projektil",
+    Recipe_Cast_.22_LR_Bullet_Tip = "Gieße .22 LR Projektil",
+    Recipe_Cast_.44-40_Bullet_Tip = "Gieße .44-40 Projektil",
+}

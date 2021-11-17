@@ -1,0 +1,10 @@
+Tooltip_DE = {
+  /*Boxes*/
+  Tooltip_BoxSPPrimers = "100 Zündhütchen für 9x19mm Parabellum, .38 Special or 22LR Patronen.",
+  Tooltip_BoxRPrimers = "100 Zündhütchen für 5.56x45mm, .223 Remington, .308 Winchester, 7.62x51mm or 7.62x39mm Patronen.",
+  /*Casings*/
+  Tooltip_762_308 = "Ersetzbar mit .308 Patronenhülsen"
+  /*Primers*/
+  Tooltip_SP_Primer = "Kann mit 9x19mm Parabellum, .38 Special or 22LR Patronen verwendet werden.",
+  Tooltip_R_Primer = "Kann mit 5.56x45mm, .223 Remington, .308 Winchester, 7.62x51mm or 7.62x39mm Patronen verwendet werden.",
+}

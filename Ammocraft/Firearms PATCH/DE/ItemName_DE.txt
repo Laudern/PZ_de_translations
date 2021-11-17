@@ -1,0 +1,36 @@
+ItemName_DE = {
+    ItemName_Base.762Bullets_casingbox = "Schachtel mit 7.62x51mm Patronenhülsen",
+    ItemName_Base.762x39Bullets_casingbox = "Schachtel mit 7.62x39mm Patronenhülsen",
+    ItemName_Base.22LRBullets_casingbox = "Schachtel mit .22 LR Patronenhülsen",
+    ItemName_Base.4440Bullets_casingbox = "Schachtel mit .44-40 Patronenhülsen",
+
+    ItemName_Base.762Bullets_tipbox = "Schachtel mit 7.62mm Projektilen",
+    ItemName_Base.22LRBullets_tipbox = "Schachtel mit .22 LR Projektilen",
+    ItemName_Base.4440Bullets_tipbox = "Schachtel mit .44-40 Projektilen",
+
+    ItemName_Base.762Bullets_tip = "7.62mm Projektil",
+    ItemName_Base.22LRBullets_tip = ".22 LR Projektil",
+    ItemName_Base.4440Bullets_tip = ".44-40 Projektil",
+
+    ItemName_Base.762Bullets_casing = "7.62x51mm Patronenhülse",
+    ItemName_Base.762x39Bullets_casing = "7.62x39mm Patronenhülse",
+    ItemName_Base.22LRBullets_casing = ".22 LR Patronenhülse",
+    ItemName_Base.4440Bullets_casing = ".44-40 Patronenhülse",
+
+    ItemName_Base.762Bullets_casing_spent = "Verschossene 7.62x51mm Patronenhülse",
+    ItemName_Base.762x39Bullets_casing_spent = "Verschossene 7.62x39mm Patronenhülse",
+    ItemName_Base.22LRBullets_casing_spent = "Verschossene .22 LR Patronenhülse",
+    ItemName_Base.4440Bullets_casing_spent = "Verschossene .44-40 Patronenhülse",
+
+    ItemName_Base.762Bullets_casing_spent_noprimer = "7.62x51mm Patronenhülse ohne Zündhütchen",
+    ItemName_Base.762x39Bullets_casing_spent_noprimer = "7.62x39mm Patronenhülse ohne Zündhütchen",
+    ItemName_Base.22LRBullets_casing_spent_noprimer = ".22 LR Patronenhülse ohne Zündhütchen",
+    ItemName_Base.4440Bullets_casing_spent_noprimer = ".44-40 Patronenhülse ohne Zündhütchen",
+
+    ItemName_Base.762BulletsMold = "7.62mm Projektil Kokille",
+    ItemName_Base.762x39BulletsMold = "7.62x39mm Projektil Kokille",
+    ItemName_Base.22LRBulletsMold = ".22 LR Projektil Kokille",
+    ItemName_Base.4440BulletsMold = ".44-40 Projektil Kokille",
+
+    ItemName_Base.GunnutMonthly7 = "Gunnut Monthly December '89 'Yippie Ki Yay Edition'",
+}
