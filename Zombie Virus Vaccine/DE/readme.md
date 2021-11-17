@@ -1,4 +1,4 @@
-Deutsche übersetzung für den Mod: Zombie Virus Vaccine
+Deutsche übersetzung für den Mod "Zombie Virus Vaccine" von Demonius
 
 id=DemoniusZombieVirusVaccine
 
